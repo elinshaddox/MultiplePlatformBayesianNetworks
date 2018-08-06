@@ -43,6 +43,7 @@ Scripts to generate matrices similar to those from simulation Settings:
 - ScaleFreeSimTruths_p40.R provides input (true precision matrices) for generating data for p=40 simulations in ScaleFreeSimDataGeneration.m
 - count_shared_edges.m is a matlab function for counting edges between two adjacency matrix inputs
 - AR2_SimulationTruthsAndDataGeneration.m provides set up for true precision matrices and data generation in AR(2) p=80 simulation settings
+
 —————————————————
 
 Metabolite Selection Example
